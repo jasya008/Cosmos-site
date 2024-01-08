@@ -1,0 +1,50 @@
+.Home {
+    background-image: url(https://d2pn8kiwq2w21t.cloudfront.net/images/PIA25778.width-1600.jpg);
+    width: 100%;
+    height: 800px;
+    background-repeat: no-repeat;
+    padding-top: 10%;
+
+    .title {
+        margin: 0 auto;
+        font-family: 'Bruno Ace', cursive;
+        font-size: 57px;
+        color: #fff;
+        letter-spacing: 7px !important;
+        overflow: hidden;
+        border-right: 2px solid hsl(0, 0%, 80%);
+        white-space: nowrap;
+        animation: typewriter 6s steps(44) 0.5s infinite normal both,
+            blinkTextCursor 500ms infinite;
+
+        @keyframes typewriter {
+            from {
+                width: 0;
+            }
+
+            to {
+                width: 90%;
+            }
+        }
+
+        @keyframes blinkTextCursor {
+            from {
+                border-right-color: hsl(0, 0%, 80%);
+            }
+
+            to {
+                border-right-color: transparent;
+            }
+        }
+    }
+
+    .logo_title {
+        text-align: center;
+        font-family:var(--important-font);
+        font-size: 17px;
+        color: var(--color-purple);
+        padding-bottom: 10px;
+    }
+
+}
+

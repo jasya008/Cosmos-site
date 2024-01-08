@@ -1,0 +1,25 @@
+.inputs {
+    display: flex;
+    align-items: center;
+    // justify-content: center;
+    flex-direction: column;
+    gap: 30px;
+
+    input {
+        width: 70%;
+        height: 50px;
+        background-color: #111010;
+        border: 3px solid #cccccc66;
+        border-radius: 7px;
+
+        color: #fff;
+        font-family: var(--all-text);
+        font-size: 17px;
+    }
+
+    input::placeholder{
+        color: #ccc;
+
+        padding-left: 10px;
+    }
+}

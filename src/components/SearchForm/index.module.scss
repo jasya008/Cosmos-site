@@ -1,0 +1,26 @@
+.searchForm {
+    width: 500px;
+    height: 40px;
+    display: flex;
+    justify-content: flex-start;
+    border: 2px solid var(--color-orange);
+    border-radius: 8px;
+
+    label {
+        position: absolute;
+        left: -99999px;
+    }
+
+    input[type="text"] {
+        color: #ccc;
+        font-family: var(--all-text);
+        flex-grow: 1;
+        font-size: 1rem;
+        padding: 0.25rem;
+        outline: none;
+        background: none;
+        border-radius: 8px;
+
+
+    }
+}

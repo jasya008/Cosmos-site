@@ -1,0 +1,604 @@
+{
+  "discovers": [
+    {
+      "id": 1,
+      "name": "The Mercury",
+      "visibility": "Small Telescope",
+      "time": "08:09",
+      "magnitude": "3.02",
+      "constellation": "Leo",
+      "description": "Mercury is the smallest and innermost planet in the Solar System, located 0.39 astronomical units from the Sun. It has a diameter of 4,880 kilometers and a mass of 3.3 x 10^23 kilograms, making it only slightly larger than Earth's moon. Mercury is a rocky, terrestrial planet with a heavily cratered surface and a thin atmosphere composed mostly of helium and trace amounts of other gases. The planet has a slow rotation and completes three rotations for every two orbits around the sun, resulting in a day that is longer than its year. Mercury has no moons or rings and is the second hottest planet after Venus, with a maximum temperature of 800 degrees Fahrenheit (430 degrees Celsius) on its daytime side due to its proximity to the sun. Mercury was first observed and studied by ancient civilizations, including the Babylonians and Greeks, and has been explored by multiple spacecraft in recent decades, including NASA's MESSENGER mission.",
+      "location": "United State",
+      "distance": "94,926,711",
+      "img": "https://t3.gstatic.com/licensed-image?q=tbn:ANd9GcTFFRKg1XEC7kNu58XVZi9vPh6F9ii0FhevCdEAUKyMEtSdx4HLLLNBMacXXX0Y0gLv"
+    },
+    {
+      "id": 2,
+      "name": " The Moon",
+      "visibility": "Nacked Eyes",
+      "time": "06:27",
+      "magnitude": "-12.55",
+      "constellation": "Aquarius",
+      "description": "The Moon is Earth's only natural satellite and is the fifth-largest satellite in the solar system. It has a diameter of 3,474 kilometers and a mass of 7.34 x 10^22 kilograms, making it about 1/81st the mass of Earth. The Moon's surface is covered in craters, mountains, and plains, with the largest feature being the Imbrium Basin. The Moon has no atmosphere and no magnetic field, which means that it is exposed to the solar wind and cosmic rays. It has a day length of 29.5 Earth days, which is also the length of its orbital period around Earth. The Moon has been used as a celestial body for human exploration and scientific study. The first human landing on the Moon was in 1969 during NASA's Apollo 11 mission, and since then, several missions have been sent to study the Moon's geology, surface features, and potential for future human exploration and colonization.",
+      "location": "United Kingdom",
+      "distance": "358,342",
+      "img": "https://live.staticflickr.com/3216/2407350036_54bf657e1b_b.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Asteroid 11 Parthenope",
+      "visibility": "Small Telescop",
+      "time": "00:14",
+      "magnitude": "10.89",
+      "constellation": "Ophiucus",
+      "description": "Asteroid 11 Parthenope is a large, main-belt asteroid with a diameter of approximately 162 kilometers. It was discovered on May 11, 1850, by Italian astronomer Annibale de Gasparis and named after the Siren of Greek mythology, Parthenope. The asteroid orbits the Sun between Mars and Jupiter, with a semi-major axis of approximately 2.45 astronomical units (AU) and an orbital period of about 4.04 years. Parthenope's orbit is relatively eccentric and inclined compared to other asteroids in the main belt. It rotates slowly, with a rotation period of about 16 hours. Parthenope is also classified as a C-type asteroid, indicating that its surface is likely rich in carbonaceous materials.",
+      "location": "United Kingdom",
+      "distance": "261,755,164",
+      "img": "https://theskylive.com/objects/parthenope/sky/skymap.png?c=1694888052"
+    },
+    {
+      "id": 4,
+      "name": "Asteroid 79 Eurynome",
+      "visibility": "Small Telescop",
+      "time": "05:12",
+      "magnitude": "10.1",
+      "constellation": "Sagittarius",
+      "description": "Asteroid 79 Eurynome was discovered on September 14, 1863 by James Craig Watson at the Detroit Observatory in Michigan. It is believed to be a member of the Themis family of asteroids located in the outer part of the main asteroid belt. Eurynome has a diameter of approximately 114 km and completes one orbit around the Sun every 5.5 years. Its name comes from Greek mythology, where Eurynome was a daughter of Oceanus and Tethys, and was known for her grace and beauty. Little is known about Eurynome's surface and composition, but it is believed to be a primitive C-type asteroid.",
+      "location": "United Kingdom",
+      "distance": "242,539,542",
+      "img": "https://finbarrconnollycom.files.wordpress.com/2017/03/7sdkqqc.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Asteroid 8 Flora",
+      "visibility": "Biconcular",
+      "time": "21:27",
+      "magnitude": "8.64",
+      "constellation": "Aquarius",
+      "description": "Asteroid 8 Flora has an orbital period of 3.27 years and a semi-major axis of approximately 2.2 astronomical units (AU), which places it in the main asteroid belt between the orbits of Mars and Jupiter. It was discovered on October 18, 1847, by astronomer John Russell Hind, and is named after the Roman goddess of flowers and gardens. Flora has a diameter of approximately 136 kilometers and is irregularly shaped, with a rotation period of about 8.67 hours. Flora is also the largest member of the Flora family of asteroids, a group of objects that share similar orbital and physical characteristics. The Flora family is thought to have formed from the collisional breakup of a larger asteroid, possibly due to a collision with a planetesimal or a disruptive event in the early solar system. The study of Flora and its family of asteroids has provided important insights into the history and evolution of the main asteroid belt and the formation of the solar system.",
+      "location": "United Kingdom",
+      "distance": "153,693,037",
+      "img": "https://cdn.forumcomm.com/dims4/default/4778da3/2147483647/strip/true/crop/1111x741+0+43/resize/840x560!/quality/90/?url=https%3A%2F%2Ffcc-cue-exports-brightspot.s3.us-west-2.amazonaws.com%2Fduluthnewstribune%2Fbinary%2FUranus%20wide%202020_binary_6746495.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Comet ZTF (C/2020 V2)",
+      "visibility": "Small Telescop",
+      "time": "00:32",
+      "magnitude": "10.7",
+      "constellation": "Eridanus",
+      "description": "Comet ZTF (C/2020 V2) is currently in the constellation of Eridanus. The current Right Ascension of Comet ZTF (C/2020 V2) is 03h 02m 07s and the Declination is -02° 05’ 41” (topocentric coordinates computed for the selected location: Greenwich, United Kingdom edit_location_alt). The current estimated magnitude of Comet ZTF (C/2020 V2) is 11.53 (JPL) while the latest observed magnitude is 10.7 (COBS).",
+      "location": "United Kingdom",
+      "distance": "317,164,301",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/3/32/C2022_E3_%28ZTF%29-_Alessandro_Bianconi.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Jupiter",
+      "visibility": "Nacked Eyes",
+      "time": "22:51",
+      "magnitude": "-2.41",
+      "constellation": "Aries",
+      "description": "Jupiter is the largest planet in the Solar System, located fifth from the sun. It has a diameter of 139,822 kilometers and a mass of 1.898 x 10^27 kilograms, making it more than twice as massive as all the other planets in the Solar System combined. Jupiter is a gas giant planet composed mostly of hydrogen and helium, with a Small rocky core at its center. The planet has a banded appearance, with swirling cloud formations and a famous Great Red Spot, a persistent high-pressure storm in the planet's atmosphere that is larger than the size of Earth. Jupiter has a rapid rotation, with a day length of 9.9 hours, and it orbits the sun once every 11.86 Earth years. The planet has 79 known moons, including four large Galilean moons: Io, Europa, Ganymede, and Callisto. Jupiter has been explored by multiple spacecraft, including the Galileo mission and NASA's Juno mission, which is currently in orbit around the planet",
+      "location": "United Kingdom",
+      "distance": "705,511,031",
+      "img": "https://images.unsplash.com/photo-1630839437035-dac17da580d0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8anVwaXRlcnxlbnwwfHwwfHx8MA%3D%3D&w=1000&q=80"
+    },
+    {
+      "id": 8,
+      "name": "Neptune",
+      "visibility": "Large Telescop",
+      "time": "09:00",
+      "magnitude": "7.70",
+      "constellation": "Pisces",
+      "description": "Neptune is the eighth and farthest planet from the sun, and it is the fourth-largest planet in the solar system. It has a diameter of 49,244 kilometers and a mass of 1.02 x 10^26 kilograms, making it about 17 times more massive than Earth. Neptune is an ice giant planet, primarily composed of water, methane, and ammonia, and has a deep, turbulent atmosphere with strong winds and large storms, including the famous Great Dark Spot and the smaller Dark Spot. The planet has a day length of approximately 16.1 Earth hours and an orbital period of 165 Earth years. Neptune has 14 known moons, with the largest being Triton, a captured Kuiper Belt object with a highly inclined and retrograde orbit. Neptune also has a faint and dynamic ring system, which was discovered in 1984 during a stellar occultation. The planet has been explored by only one spacecraft, NASA's Voyager 2, which flew by the planet in 1989, providing the most detailed images and data of the planet and its moons to date.",
+      "location": "United Kingdom",
+      "distance": "4,347,558,961",
+      "img": "https://images.hdqwalls.com/wallpapers/neptune-planet-space-5k-kk.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Asteroid 3 Juno",
+      "visibility": "Small Telescop",
+      "time": "04:20",
+      "magnitude": "9.77",
+      "constellation": "Cancer",
+      "description": "3 Juno is a large main-belt asteroid located between the orbits of Mars and Jupiter. It was discovered on 1 September 1804 by German astronomer Karl Ludwig Harding and is one of the largest asteroids in the solar system, with a diameter of approximately 247 kilometers. Juno has an irregular shape, with a rotation period of about 7.2 hours, and its surface is covered in numerous impact craters, some of which are several kilometers in diameter. Juno's composition is thought to be a mixture of rock and metal, similar to the composition of the Earth's crust. Juno orbits the Sun once every 4.36 Earth years and has been observed by ground-based telescopes, as well as by the Hubble Space Telescope and the Dawn spacecraft. The observations have revealed insights into its geology, composition, and history, including potential signs of water and organic molecules on its surface.",
+      "location": "United Kingdom",
+      "distance": "453,298,486",
+      "img": "https://cdn.mos.cms.futurecdn.net/NVZ7bjwM2BHmhswT8pQCMk-1200-80.jpg.webp"
+    },
+    {
+      "id": 10,
+      "name": "Venus",
+      "visibility": "Nacked Eyes",
+      "time": "05:56",
+      "magnitude": "-4.32",
+      "constellation": "Cancer",
+      "description": "Venus is the the second planet of the Solar System in order of distance from the Sun, being located 0.72 astronomical units from it in the inner solar system. It has a similar size and composition to Earth, with a diameter of 12,104 kilometers and a mass of 4.87 x 10^24 kilograms. The planet has a slow retrograde rotation, meaning it rotates on its axis in the opposite direction to its orbit around the sun, taking 243 Earth days to complete one rotation. Venus has a thick atmosphere primarily composed of carbon dioxide with trace amounts of nitrogen and other gases, as well as sulfuric acid clouds that obscure the surface from visible light. Due to its thick atmosphere and runaway greenhouse effect it experiences extreme surface temperatures, with a maximum temperature of 864 degrees Fahrenheit (462 degrees Celsius). Venus has been observed and studied since ancient times, with the earliest recorded observations dating back to Babylonian astronomers in the 17th century",
+      "location": "United Kingdom",
+      "distance": "43,350,764",
+      "img": "https://svs.gsfc.nasa.gov/vis/a000000/a003700/a003728/venus_atmosphere.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Dwarf Planet 1 Ceres",
+      "visibility": "Biconcular",
+      "time": "22:39",
+      "magnitude": "22:29",
+      "constellation": "Virgo",
+      "description": "Ceres is the largest object in the asteroid belt, located between the orbits of Mars and Jupiter. It was discovered by Italian astronomer Giuseppe Piazzi on 1 January 1801 and was later reclassified as a dwarf planet in 2006, along with Pluto and Eris. Ceres has a diameter of approximately 940 kilometers and a mass of 9.39 x 10^20 kilograms, making it about 1/14th the mass of the Moon. Ceres has a relatively round shape, and its surface is covered in craters, mountains, and bright spots, including the famous Occator Crater, which contains bright deposits of salt. It has no atmosphere, but it does have a thin water vapor exosphere. Ceres has a rotational period of about 9.1 hours and an orbital period of 4.6 Earth years. In 2015, NASA's Dawn spacecraft entered orbit around Ceres, becoming the first spacecraft to visit a dwarf planet and providing detailed images and data about its geology, composition, and history.",
+      "location": "United State",
+      "distance": "463,454,682",
+      "img": "https://scx2.b-cdn.net/gfx/news/hires/2015/1-ceres.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Asteroid 16 Psyche",
+      "visibility": "Small Telescop",
+      "time": "23:08",
+      "magnitude": "12.00",
+      "constellation": "Libra",
+      "description": "Asteroid 16 Psyche is an interesting object in the asteroid belt because it is believed to have a high concentration of metallic iron and nickel in its composition, making it one of the largest known metallic asteroids in the solar system. It was discovered on March 17, 1852, by the Italian astronomer Annibale de Gasparis, who named it after Psyche, a figure in Greek mythology who represents the soul. Psyche is approximately 226 kilometers in diameter and orbits the Sun at a distance of about 3 astronomical units (AU), with an orbital period of about 5.5 years. The asteroid has been identified as a potential target for future space exploration",
+      "location": "United Kingdom",
+      "distance": "465,441,838",
+      "img": "https://im.indiatimes.in/content/2021/Jun/psyche_60d081af27f10.jpg"
+    },
+    {
+      "id": 13,
+      "name": "Asteroid 7 Iris",
+      "visibility": "Small Telescop",
+      "time": "22:16",
+      "magnitude": "11.32",
+      "constellation": "Libra",
+      "description": "7 Iris is a large main-belt asteroid located between the orbits of Mars and Jupiter. It orbits the Sun once every 3.68 Earth years. It was discovered on August 13, 1847 by John Russell Hind and is named after the Greek goddess of the rainbow. Iris has a diameter of approximately 200 kilometers and is irregularly shaped, with a rotation period of about 7.1 hours. In 2007, the European Space Agency launched the Rosetta spacecraft, which passed within 5 million kilometers of Iris and obtained detailed measurements of its surface. These observations, together with ground-based radar observations, revealed that Iris has a highly elongated shape and provided important insights into its rotational dynamics. The study of Iris and its family of asteroids has provided important insights into the formation and evolution of the asteroid belt and the early solar system.",
+      "location": "United Kingdom",
+      "distance": "447,588,998",
+      "img": "https://im.indiatimes.in/content/2023/Aug/edu_asteroid_large_64ca226313eae.jpg"
+    },
+    {
+      "id": 14,
+      "name": "Asteroid 6 Hebe",
+      "visibility": "Small Telescop",
+      "time": "21:32",
+      "magnitude": "11.18",
+      "constellation": "Leo",
+      "description": "6 Hebe is a main-belt asteroid located between the orbits of Mars and Jupiter. It was discovered on 1 July 1847 by German astronomer Karl Ludwig Hencke and is named after the Greek goddess of youth. Hebe has a diameter of approximately 186 kilometers and is irregularly shaped, with a rotation period of about 7.3 hours. Hebe orbits the Sun once every 3.78 Earth years. Hebe is also the parent body of the Hebe family of asteroids, which are believed to have originated from the fragmentation of a larger parent body.",
+      "location": "United Kingdom",
+      "distance": "562,604,067",
+      "img": "https://theskylive.com/objects/hebe/sky/skymap.png?c=1694673666"
+    },
+    {
+      "id": 15,
+      "name": "Asteroid 20 Massalia",
+      "visibility": "Small Telescop",
+      "time": "00:23",
+      "magnitude": "11.36",
+      "constellation": "Ophiucus",
+      "description": "Asteroid 20 Massalia was discovered by astronomer Annibale de Gasparis on September 19, 1852. It is named after the ancient Greek city of Massalia, which is now modern-day Marseille, France. Massalia is a relatively large and bright asteroid, with a diameter of about 146 kilometers. It is classified as an S-type asteroid, meaning that it is composed primarily of silicate rock and metal. Massalia has a relatively short rotation period of just over 6 hours and orbits the Sun every 4.3 years at an average distance of 2.41 astronomical units (AU).",
+      "location": "United Kingdom",
+      "distance": "324,896,371",
+      "img": "https://theskylive.com/screenshots/massalia.jpg"
+    },
+    {
+      "id": 16,
+      "name": "Saturn",
+      "visibility": "Nacked Eyes",
+      "time": "20:47",
+      "magnitude": "0.50",
+      "constellation": "Aquarius",
+      "description": "Saturn is the sixth planet from the Sun and is the second largest planet in the Solar System after Jupiter. It has a diameter of 116,460 kilometers and a mass of 5.68 x 10^26 kilograms, making it approximately 95 times more massive than Earth. Saturn is a gas giant planet with a composition similar to Jupiter, primarily composed of hydrogen and helium with trace amounts of other gases. The planet is famous for its extensive ring system, consisting of numerous narrow, bright rings composed of ice particles, rock debris, and dust. Saturn has a day length of 10.7 hours and an orbital period of 29.4 Earth years. The planet has 82 known moons, with the largest being Titan, a moon with a thick atmosphere and the only known moon with stable liquid on its surface. The planet has been explored by multiple spacecraft, including NASA's Cassini-Huygens mission, which spent 13 years in orbit around Saturn and its moons.",
+      "location": "United Kingdom",
+      "distance": "1,313,720,287",
+      "img": "https://images.pexels.com/photos/12498805/pexels-photo-12498805.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+      "id": 17,
+      "name": "Uranus",
+      "visibility": "Biconcular",
+      "time": "23:30",
+      "magnitude": "5.76",
+      "constellation": "Aries",
+      "description": "Uranus is the seventh planet from the sun, and it is the third-largest planet in the solar system. It has a diameter of 50,724 kilometers and a mass of 8.68 x 10^25 kilograms, making it about 14.5 times more massive than Earth. Uranus is an ice giant planet, primarily composed of water, methane, and ammonia, and has the coldest atmosphere in the solar system with temperatures that can dip down to -224°C (-371°F). The planet has a tilted axis of rotation, which causes it to rotate on its side with its poles pointing towards the sun. Uranus has a day length of approximately 17.2 Earth hours and an orbital period of 84 Earth years. The planet has 27 known moons, with the largest being Titania and Oberon. Uranus also has a faint ring system, which was discovered in 1977 during a stellar occultation. Uranus has been explored by only one spacecraft, NASA's Voyager 2, which flew by the planet in 1986, providing the most detailed images and data of the planet and its moons to date.",
+      "location": "United Kingdom",
+      "distance": "2,932,848,029  ",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Uranus_as_seen_by_NASA%27s_Voyager_2_%28remastered%29_-_JPEG_converted.jpg/1024px-Uranus_as_seen_by_NASA%27s_Voyager_2_%28remastered%29_-_JPEG_converted.jpg"
+    },
+    {
+      "id": 18,
+      "name": "Asteroid 4 Vesta",
+      "visibility": "Biconcular",
+      "time": "1:03",
+      "magnitude": "8.37",
+      "constellation": "Taurus",
+      "description": "4 Vesta is a large asteroid located in the asteroid belt between Mars and Jupiter. It was discovered on March 29, 1807 by German astronomer Heinrich Wilhelm Olbers and is one of the largest asteroids in the solar system, with a diameter of approximately 525 kilometers. Vesta has a relatively bright surface and is thought to be one of the few remaining protoplanets from the early solar system that has not undergone significant alteration since its formation. It has a differentiated interior, with a rocky crust, a mantle, and a metallic core. Vesta has a rotation period of about 5.34 hours and an orbital period of 3.63 Earth years. It has been observed by ground-based telescopes, as well as by the Dawn spacecraft, which orbited the asteroid from 2011 to 2012. The observations have revealed insights into its geology, composition, and history, including evidence of volcanic activity, impact craters, and a unique set of surface features known as Vestoids, which are fragments believed to have been ejected from Vesta's surface by impacts.",
+      "location": "United Kingdom",
+      "distance": "430,157,541",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Vesta_in_natural_color.jpg/390px-Vesta_in_natural_color.jpg"
+    },
+    {
+      "id": 19,
+      "name": "Asteroid 29 Amphitrite",
+      "visibility": "Small Telescop",
+      "time": "02:45",
+      "magnitude": "9.99",
+      "constellation": "Pisces",
+      "description": "Asteroid 29 Amphitrite was discovered on March 1, 1854, by Albert Marth, a German astronomer. It is named after the sea-goddess Amphitrite in Greek mythology. With a diameter of approximately 208 km, Amphitrite is one of the largest main-belt asteroids. It has a relatively high albedo, which indicates that its surface is composed of bright and reflective materials. Amphitrite has an orbital period of 4.02 years.",
+      "location": "United Kingdom",
+      "distance": "255,002,192",
+      "img": "https://c02.purpledshub.com/uploads/sites/48/2021/01/29-Amphitrite-b60dd79.jpg?fit=1024%2C800"
+    },
+    {
+      "id": 21,
+      "name": "Andromeda",
+      "visibility": "Large Telescope",
+      "time": "21:00",
+      "magnitude": "-0.001",
+      "constellation": "Andromeda",
+      "description": "The Andromeda Galaxy is a barred spiral galaxy and is the nearest major galaxy to the Milky Way, where the Solar System resides. It was originally named the Andromeda Nebula and is cataloged as Messier 31, M31, and NGC 224. Andromeda has a diameter of about 46.56 kiloparsecs (152,000 light-years)[8] and is approximately 765 kpc (2.5 million light-years) from Earth. The galaxy's name stems from the area of Earth's sky in which it appears, the constellation of Andromeda, which itself is named after the princess who was the wife of Perseus in Greek mythology.  The virial mass of the Andromeda Galaxy is of the same order of magnitude as that of the Milky Way, at 1 trillion solar masses (2.0×1042 kilograms). The mass of either galaxy is difficult to estimate with any accuracy, but it was long thought that the Andromeda Galaxy was more massive than the Milky Way by a margin of some 25% to 50%. This has been called into question by early 21st-century studies indicating a possibly lower mass for the Andromeda Galaxy[11] and a higher mass for the Milky Way.[12][13] The Andromeda Galaxy has a diameter of about 46.56 kpc (152,000 ly), making it the largest member of the Local Group of galaxies in terms of extension.",
+      "location": "USA",
+      "distance": "830000",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/M31_09-01-2011_%28cropped%29.jpg/1280px-M31_09-01-2011_%28cropped%29.jpg"
+    }
+  ],
+  "objects": [
+    {
+      "id": 1,
+      "name": "Abell 21",
+      "type": "Nebula",
+      "img": "https://www.deepskycorner.ch/thumb/5142deece2ba868155368b6bb6cc3bbe_fig.webp",
+      "text": "The Medusa Nebula is a planetary nebula in the constellation of Gemini. It is also known as Abell 21 and Sharpless 2-274. It was originally discovered in 1955 by University of California, Los Angeles astronomer George O. Abell, who classified it as an old planetary nebula.[4] Until the early 1970s, the nebula was thought to be a supernova remnant. With the computation of expansion velocities and the thermal character of the radio emission, Soviet astronomers in 1971 concluded that it was most likely a planetary nebula. As the nebula is so large, its surface brightness is very low, with surface magnitudes of between +15.99 and +25 reported.[citation needed]The central star of the planetary nebula is an PG 1159 star"
+    },
+    {
+      "id": 2,
+      "name": "Lindsay-Shapley Ring",
+      "type": "Galaxy",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/AM_0644-741.jpg/375px-AM_0644-741.jpg",
+      "text": "AM 0644-741, also known as the Lindsay-Shapley Ring, is an unbarred lenticular galaxy, and a ring galaxy, which is 300 million light-years away in the southern constellation Volans.The yellowish nucleus was once the center of a normal spiral galaxy, and the ring which currently surrounds the center is 150,000 light years in diameter.[2] The ring is theorized to have formed by a collision with another galaxy, which triggered a gravitational disruption that caused dust in the galaxy to condense and form stars, which forced it to then expand away from the galaxy and create a ring."
+    },
+    {
+      "id": 3,
+      "name": "The Heart Nebula",
+      "type": "Nebula",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/IC1805_--_H-alpha_%2B_RGB.jpg/1200px-IC1805_--_H-alpha_%2B_RGB.jpg",
+      "text": "The Heart Nebula (also known as the Running dog nebula, IC 1805, Sharpless 2-190) is an emission nebula, 7500 light years away from Earth and located in the Perseus Arm of the Galaxy in the constellation Cassiopeia. It was discovered by William Herschel on 3 November 1787.[1] It displays glowing ionized hydrogen gas and darker dust lanes.[2]The brightest part of the nebula (a knot at its western edge) is separately classified as NGC 896, because it was the first part of the nebula to be discovered. The nebula's intense red output and its morphology are driven by the radiation emanating from a small group of stars near the nebula's center. This open cluster of stars, known as Collinder 26 or Melotte 15, contains a few bright stars nearly 50 times the mass of the Sun, and many more dim stars that are only a fraction of the Sun's mass.[1] The Heart Nebula is also made up of ionised oxygen and sulfur gasses, responsible for the rich blue and orange colours seen in narrowband images. The shape of the nebula is driven by stellar winds from the hot stars in its core. The nebula also spans almost 2 degrees in the sky, covering an area four times that of the diameter of the full moon.[3]"
+    },
+    {
+      "id": 4,
+      "name": "Busy_bees",
+      "type": "Galaxy",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/4/45/NGC_5308.png",
+      "text": "This NASA/ESA Hubble Space Telescope image shows star clusters encircling a galaxy, like bees buzzing around a hive. The hive in question the an edge-on lenticular galaxy NGC 5308, located just under 100 million light-years away in the constellation of Ursa Major (The Great Bear).Members of a galaxy type that lies somewhere between an elliptical and a spiral galaxy, lenticular galaxies such as NGC 5308 are disc galaxies that have used up, or lost, the majority of their gas and dust. As a result, they experience very little ongoing star formation and consist mainly of old and aging stars. On 9 October 1996, one of NGC 5308’s aging stars met a dramatic demise, exploding as a spectacular Type la supernova.Lenticular galaxies are often orbited by gravitationally bound collections of hundreds of thousands of older stars. Called globular clusters, these dense collections of stars form a delicate halo as they orbit around the main body of NGC 5308, appearing as bright dots on the dark sky."
+    },
+    {
+      "id": 5,
+      "name": "Cartwheel",
+      "type": "Galaxy",
+      "img": "https://www.cnet.com/a/img/resize/a3c6b67828c4879d623473304af75cbf7f21c870/hub/2020/01/22/387e5308-fbd7-4586-9aaa-b83c2bcd15f6/cartwheelgalaxy.jpg?auto=webp&width=1200",
+      "text": "The unusual shape of the Cartwheel Galaxy may be due to a collision with a smaller galaxy such as one of those in the lower left of the image. The most recent star burst (star formation due to compression waves) has lit up the Cartwheel rim, which has a diameter larger than that of the Milky Way. Star formation via starburst galaxies, such as the Cartwheel Galaxy, results in the formation of large and extremely luminous stars. When massive stars explode as supernovas, they leave behind neutron stars and black holes. Some of these neutron stars and black holes have nearby companion stars, and become powerful sources of X-rays as they pull matter off their companions (also known as ultra and hyperluminous X-ray sources).[15] The brightest X-ray sources are likely black holes with companion stars, and appear as the white dots that lie along the rim of the X-ray image. The Cartwheel contains an exceptionally large number of these black hole binary X-ray sources, because many massive stars formed in the ring."
+    },
+    {
+      "id": 6,
+      "name": "Ceres",
+      "type": "Satellite",
+      "img": "https://solarsystem.nasa.gov/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBb3dEIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--89dc924ceb1b7c67cf6049cf202734ff747a470e/PIA21079.jpg",
+      "text": "Ceres, minor-planet designation 1 Ceres, is a dwarf planet in the asteroid belt between the orbits of Mars and Jupiter. It was the first asteroid discovered, on 1 January 1801, by Giuseppe Piazzi at Palermo Astronomical Observatory in Sicily and announced as a new planet. Ceres was later classified as an asteroid and then a dwarf planet – the only one always inside Neptune's orbCeres's small size means that even at its brightest, it is too dim to be seen by the naked eye, except under extremely dark skies. Its apparent magnitude ranges from 6.7 to 9.3, peaking at opposition (when it is closest to Earth) once every 15- to 16-month synodic period. As a result, its surface features are barely visible even with the most powerful telescopes, and little was known about it until the robotic NASA spacecraft Dawn approached Ceres for its orbital mission in 2015.Dawn found Ceres's surface to be a mixture of water ice, and hydrated minerals such as carbonates and clay. Gravity data suggest Ceres to be partially differentiated into a muddy (ice-rock) mantle/core and a less dense but stronger crust that is at most 30% ice by volume. Although Ceres likely lacks an internal ocean of liquid water, brines still flow through the outer mantle and reach the surface, allowing cryovolcanoes such as Ahuna Mons to form roughly every fifty million years. This makes Ceres the closest known cryovolcanic body to the Sun, and the brines provide a potential habitat for microbial life.In January 2014, emissions of water vapour were detected around Ceres, creating a tenuous, transient atmosphere known as an exosphere.[21] This was unexpected because vapour is usually a hallmark of comets, not asteroids."
+    },
+    {
+      "id": 7,
+      "name": "Collinder 135",
+      "type": "Star",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/7/76/Cr_135_DSS.png",
+      "text": "Collinder 135, known sometimes as the Pi Puppis Cluster, is an open cluster in Puppis constellation.It consists of six stars brighter than 6th magnitude, and a widespread population of fainter stars.[2] It lies in the southern celestial hemisphere near a rich star field. The main component is the star Pi Puppis, which gives to the cluster its common name; it is an orange supergiant with a visual magnitude of 2.71. Two of the 5th magnitude stars are all variables: NV Puppis is a Gamma Cassiopeiae variable, while NW Puppis is a Beta Cephei variable."
+    },
+    {
+      "id": 8,
+      "name": "Daphnis",
+      "type": "Satellite",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/6/6d/PIA21056cropsharpen.jpg",
+      "text": "Daphnis is an inner satellite of Saturn. It is also known as Saturn XXXV; its provisional designation was S/2005 Daphnis is about 8 kilometers in diameter, and orbits the planet in the Keeler Gap within the A ring.The moon was named in 2006 after Daphnis, a shepherd, pipes player, and pastoral poet in Greek mythology;[8] he was descendant of the Titans, after whom the largest moons of Saturn are named. Both Daphnis and Pan, the only other known shepherd moon to orbit within Saturn's main rings, are named for mythological figures associated with shepherds."
+    },
+    {
+      "id": 9,
+      "name": "Disk",
+      "type": "Star",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Dust_disk_around_massive_star.jpg/1920px-Dust_disk_around_massive_star.jpg",
+      "text": "A protoplanetary disk is a rotating circumstellar disc of dense gas and dust surrounding a young newly formed star, a T Tauri star, or Herbig Ae/Be star. The protoplanetary disk may also be considered an accretion disk for the star itself, because gases or other material may be falling from the inner edge of the disk onto the surface of the star. This process should not be confused with the accretion process thought to build up the planets themselves. Externally illuminated photo-evaporating protoplanetary disks are called proplyds."
+    },
+    {
+      "id": 10,
+      "name": "ESO 456-67",
+      "type": "Nebula",
+      "img": "https://cdn.spacetelescope.org/archives/images/thumb700x/potw1308a.jpg",
+      "text": "It may look like something from The Lord of the Rings, but this fiery swirl is actually a planetary nebula known as ESO 456-67. Set against a backdrop of bright stars, the rust-coloured object lies in the constellation of Sagittarius (The Archer), in the southern sky. Despite the name, these ethereal objects have nothing at all to do with planets; this misnomer came about over a century ago, when the first astronomers to observe them only had small, poor-quality telescopes. Through these, the nebulae looked small, compact, and planet-like — and so were labelled as such.When a star like the Sun approaches the end of its life, it flings material out into space. Planetary nebulae are the intricate, glowing shells of dust and gas pushed outwards from such a star. At their centres lie the remnants of the original stars themselves — small, dense white dwarf stars.In this image of ESO 456-67, it is possible to see the various layers of material expelled by the central star. Each appears in a different hue — red, orange, yellow, and green-tinted bands of gas are visible, with clear patches of space at the heart of the nebula. It is not fully understood how planetary nebulae form such a wide variety of shapes and structures; some appear to be spherical, some elliptical, others shoot material in waves from their polar regions, some look like hourglasses or figures of eight, and others resemble large, messy stellar explosions — to name but a few."
+    },
+    {
+      "id": 11,
+      "name": "EtaCarinae",
+      "type": "Nebula",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Eta_Carinae.jpg/1024px-Eta_Carinae.jpg",
+      "text": "Eta Carinae (η Carinae, abbreviated to η Car), formerly known as Eta Argus, is a stellar system containing at least two stars with a combined luminosity greater than five million times that of the Sun, located around 7,500 light-years (2,300 parsecs) distant in the constellation Carina. Previously a 4th-magnitude star, it brightened in 1837 to become brighter than Rigel, marking the start of its so-called Great Eruption. It became the second-brightest star in the sky between 11 and 14 March 1843 before fading well below naked-eye visibility after 1856. In a smaller eruption, it reached 6th magnitude in 1892 before fading again. It has brightened consistently since about 1940, becoming brighter than magnitude 4.5 by 2014.At declination −59° 41′ 04.26″, Eta Carinae is circumpolar from locations on Earth south of latitude 30°S, (for reference, the latitude of Johannesburg is 26°12′S); and is not visible north of about latitude 30°N, just south of Cairo, which is at a latitude of 30°2′N.The two main stars of the Eta Carinae system have an eccentric orbit with a period of 5.54 years. The primary is an extremely unusual star, similar to a luminous blue variable (LBV). It was initially 150–250 M☉, of which it has already lost at least 30 M☉, and it is expected to explode as a supernova in the astronomically near future. This is the only star known to produce ultraviolet laser emission. The secondary star is hot and also highly luminous, probably of spectral class O, around 30–80 times as massive as the Sun. The system is heavily obscured by the Homunculus Nebula, which consists of material ejected from the primary during the Great Eruption. It is a member of the Trumpler 16 open cluster within the much larger Carina Nebula.Although unrelated to the star and nebula, the weak Eta Carinids meteor shower has a radiant very close to Eta Carinae."
+    },
+    {
+      "id": 12,
+      "name": "Ganymede",
+      "type": "Satellite",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Ganymede_-_Perijove_34_Composite.png/1024px-Ganymede_-_Perijove_34_Composite.png",
+      "text": "Ganymede, or Jupiter III, is the largest and most massive natural satellite of Jupiter as well as in the Solar System, being a planetary-mass moon. It is the largest Solar System object without an atmosphere, despite being the only moon of the Solar System with a magnetic field. Like Titan, it is larger than the planet Mercury, but has somewhat less surface gravity than Mercury, Io or the Moon.[16]Ganymede is composed of approximately equal amounts of silicate rock and water. It is a fully differentiated body with an iron-rich, liquid core, and an internal ocean that may contain more water than all of Earth's oceans combined.[17][18][19][20] Its surface is composed of two main types of terrain. Dark regions, saturated with impact craters and dated to four billion years ago, cover about a third of it. Lighter regions, crosscut by extensive grooves and ridges and only slightly less ancient, cover the remainder. The cause of the light terrain's disrupted geology is not fully known, but was likely the result of tectonic activity due to tidal heating.[8] Ganymede orbits Jupiter in roughly seven days and is in a 1:2:4 orbital resonance with the moons Europa and Io, respectively."
+    },
+    {
+      "id": 13,
+      "name": "Hoag's Object",
+      "type": "Galaxy",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Hoag%27s_object.jpg/1024px-Hoag%27s_object.jpg  ",
+      "text": "Hoag's Object is an unusual ring galaxy in the constellation of Serpens Caput.[4] It is named after Arthur Hoag, who discovered it in 1950 and identified it as either a planetary nebula or a peculiar galaxy. The galaxy has approximately eight billion stars, and is roughly 120,000 light years across.A nearly perfect ring of young hot blue stars circles the older yellow nucleus of this ring galaxy c. 600 million light-years away in the constellation Serpens. The ring structure is so perfect and circular that it has been referred to as The most perfect ring galaxy. The diameter of the 6 arcsecond inner core of the galaxy is about 17±0.7 kly (5.3±0.2 kpc) while the surrounding ring has an inner 28″ diameter of 75±3 kly (24.8±1.1 kpc) and an outer 45″ diameter of 121±4 kly (39.9±1.7 kpc).[2] The galaxy is estimated to have a mass of 700 billion suns.[8] By comparison, the Milky Way galaxy has an estimated diameter of 150-200 kly and consists of between 100 and 500 billion stars and a mass between 800 billion and 1.54 trillion suns.The gap separating the two stellar populations may contain "
+    },
+    {
+      "id": 14,
+      "name": "IC 4970",
+      "type": "Galaxy",
+      "img": "https://noirlab.edu/public/media/archives/images/screen/gemini1104a.jpg",
+      "text": "IC 4970 is located a few arcseconds away from the much larger barred spiral galaxy NGC 6872, and the two are known to be interacting with each other. Horrelou and Koribalski (2007) reported on a computer simulation used to determine how the two galaxies were interacting. The study concluded that IC 4970 approached NGC 6872 nearly along the plane of its spiral disk, making a closest approach approximately 130 million years ago resulting in the latter's current highly elongated shape.An ultraviolet-to-infrared study by Eufrasio, et al. (2013), using data from GALEX, Spitzer, and other resources found that the interaction between the two galaxies appears to have triggered significant star formation in the northeastern arm of NGC 6872 beginning about 130 thousand light-years (40 kpc) from its nucleus.[5] The same appears to have also occurred in the southwestern arm.[2] A bright ultraviolet source was discovered at the end of the northeastern arm, around 290 thousand light-years (90 kpc) from the nucleus, which may be a tidal dwarf galaxy formed out of the interaction between IC 4970 and NGC 6872.[5] The bright ultraviolet nature of this cluster indicates that it contains stars less than 200 million years old, which roughly coincides with the timeframe of the collision."
+    },
+    {
+      "id": 15,
+      "name": "Io",
+      "type": "Satellite",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Io_highest_resolution_true_color.jpg/1024px-Io_highest_resolution_true_color.jpg",
+      "text": "Io, or Jupiter I, is the innermost and third-largest of the four Galilean moons of the planet Jupiter. Slightly larger than Earth’s moon, Io is the fourth-largest moon in the Solar System, has the highest density of any moon, the strongest surface gravity of any moon, and the lowest amount of water (by atomic ratio) of any known astronomical object in the Solar System. It was discovered in 1610 by Galileo Galilei and was named after the mythological character Io, a priestess of Hera who became one of Zeus's lovers. With over 400 active volcanoes, Io is the most geologically active object in the Solar System.[11][12][13] This extreme geologic activity is the result of tidal heating from friction generated within Io's interior as it is pulled between Jupiter and the other Galilean moons—Europa, Ganymede and Callisto. Several volcanoes produce plumes of sulfur and sulfur dioxide that climb as high as 500 km (300 mi) above the surface. Io's surface is also dotted with more than 100 mountains that have been uplifted by extensive compression at the base of Io's silicate crust. Some of these peaks are taller than Mount Everest, the highest point on Earth's surface.[14] Unlike most moons in the outer Solar System, which are mostly composed of water ice, Io is primarily composed of silicate rock surrounding a molten iron or iron sulfide core. Most of Io's surface is composed of extensive plains with a frosty coating of sulfur and sulfur dioxide."
+    },
+    {
+      "id": 16,
+      "name": "M16(Eagle Nebula)",
+      "type": "Nebula",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Pillars_of_creation_2014_HST_WFC3-UVIS_full-res_denoised.jpg/1024px-Pillars_of_creation_2014_HST_WFC3-UVIS_full-res_denoised.jpg",
+      "text": "The Eagle Nebula (catalogued as Messier 16 or M16, and as NGC 6611, and also known as the Star Queen Nebula) is a young open cluster of stars in the constellation Serpens, discovered by Jean-Philippe de Cheseaux in 1745–46. Both the Eagle and the Star Queen refer to visual impressions of the dark silhouette near the center of the nebula,[4][5] an area made famous as the Pillars of Creation imaged by the Hubble Space Telescope. The nebula contains several active star-forming gas and dust regions, including the aforementioned Pillars of Creation. The Eagle Nebula lies in the Sagittarius Arm of the Milky Way."
+    },
+    {
+      "id": 17,
+      "name": "Messier 74",
+      "type": "Galaxy",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/d/d0/PESSTO_Snaps_Supernova_in_Messier_74.jpg",
+      "text": "Messier 74 (also known as NGC 628 and Phantom Galaxy) is a large spiral galaxy in the equatorial constellation Pisces. It is about 32 million light-years away from Earth.[6] The galaxy contains two clearly defined spiral arms and is therefore used as an archetypal example of a grand design spiral galaxy. The galaxy's low surface brightness makes it the most difficult Messier object for amateur astronomers to observe.[8][9] Its relatively large angular (that is, apparent) size and the galaxy's face-on orientation make it an ideal object for professional astronomers who want to study spiral arm structure and spiral density waves. It is estimated that M74 hosts about 100 billion stars."
+    },
+    {
+      "id": 18,
+      "name": "Pinwheel Galaxy",
+      "type": "Galaxy",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/M101_hires_STScI-PRC2006-10a.jpg/1280px-M101_hires_STScI-PRC2006-10a.jpg",
+      "text": "The Pinwheel Galaxy (also known as Messier 101, M101 or NGC 5457) is a face-on spiral galaxy 21 million light-years (6.4 megaparsecs)[5] away from Earth in the constellation Ursa Major. It was discovered by Pierre Méchain in 1781[a] and was communicated that year to Charles Messier, who verified its position for inclusion in the Messier Catalogue as one of its final entries. On February 28, 2006, NASA and the European Space Agency released a very detailed image of the Pinwheel Galaxy, which was the largest and most-detailed image of a galaxy by Hubble Space Telescope at the time.[10] The image was composed of 51 individual exposures, plus some extra ground-based photos."
+    },
+    {
+      "id": 19,
+      "name": "Messier 37",
+      "type": "Cluster",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/c/cd/M37_Mazur_full.jpg",
+      "text": "Messier 37 (also known as M37 or NGC 2099) is the brightest and richest open cluster in the constellation Auriga. It was discovered by the Italian astronomer Giovanni Battista Hodierna before 1654. M37 was missed by French astronomer Guillaume Le Gentil when he rediscovered M36 and M38 in 1749. French astronomer Charles Messier independently rediscovered M37 in September 1764 but all three of these clusters were recorded by Hodierna. It is classified as Trumpler type I,1,r or I,2,r. M37 exists in the antipodal direction, opposite from the Galactic Center as seen from Earth, so is in one of the nearby outer arms.[4] Specifically it is still close enough to be in our own. Estimates of its age range from 347[1] million to 550[3] million years. It has 1,500[2] times the mass of the Sun (M☉) and contains over 500 identified stars,[3] with roughly 150 stars brighter than magnitude 12.5. M37 has at least a dozen red giants and its hottest surviving main sequence star is of stellar classification B9 V. The abundance of elements other than hydrogen and helium, what astronomers term metallicity, is similar to, if not slightly higher than, the abundance in the Sun.As of 2022, it contains only the third known planetary nebula associated with an open cluster."
+    },
+    {
+      "id": 20,
+      "name": "Milky Way",
+      "type": "Galaxy",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Artist%E2%80%99s_impression_of_the_Milky_Way.jpg",
+      "text": "The Milky Way is the galaxy that includes the Solar System, with the name describing the galaxy's appearance from Earth: a hazy band of light seen in the night sky formed from stars that cannot be individually distinguished by the naked eye. The term Milky Way is a translation of the Latin via lactea, from the Greek γαλακτικὸς κύκλος (galaktikòs kýklos), meaning milky circle.From Earth, the Milky Way appears as a band because its disk-shaped structure is viewed from within. Galileo Galilei first resolved the band of light into individual stars with his telescope in 1610. Until the early 1920s, most astronomers thought that the Milky Way contained all the stars in the Universe. Following the 1920 Great Debate between the astronomers Harlow Shapley and Heber Doust Curtis, observations by Edwin Hubble showed that the Milky Way is just one of many galaxies."
+    },
+    {
+      "id": 21,
+      "name": "NGC 346",
+      "type": "Cluster",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Ngc346.jpg/800px-Ngc346.jpg",
+      "text": "NGC 346 is a young open cluster of stars with associated nebula located in the Small Magellanic Cloud (SMC) that appears in the southern constellation of Tucana. It was discovered August 1, 1826 by Scottish astronomer James Dunlop. J. L. E. Dreyer described it as, bright, large, very irregular figure, much brighter middle similar to double star, mottled but not resolved. On the outskirts of the cluster is the multiple star system HD 5980, one of the brightest stars in the SMC.This cluster is located near the center of the brightest H II region in the SMC, designated N66. This is positioned in the northeast section of the galactic bar. Stellar surveys have identified 230 massive OB stars in the direction of this cluster.[4] 33 of the cluster members are O-type stars, with 11 of type O6.5 or earlier. The inner 15 pc radius of the cluster appears centrally condensed, while the area outside that volume is more dispersed.[9] The youngest cluster members near the center have ages of less than two million years, and observations suggests the cluster is still engaged in high mass star formation."
+    },
+    {
+      "id": 22,
+      "name": "NGC 604",
+      "type": "Galaxy",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nursery_of_New_Stars_-_GPN-2000-000972.jpg/1024px-Nursery_of_New_Stars_-_GPN-2000-000972.jpg",
+      "text": "NGC 604 is an H II region inside the Triangulum Galaxy. It was discovered by William Herschel on September 11, 1784. It is among the largest H II regions in the Local Group of galaxies; at the galaxy's estimated distance of 2.7 million light-years, its longest diameter is roughly 1,520 light years (~460 parsecs), over 40 times the size of the visible portion of the Orion Nebula. It is over 6,300 times more luminous than the Orion Nebula, and if it were at the same distance it would outshine Venus. Its gas is ionized by a cluster of massive stars at its center with 200 stars of spectral type O and WR, a mass of 105 solar masses, and an age of 3.5 million years;[2] however, unlike the Large Magellanic Cloud's Tarantula Nebula central cluster (R136), NGC 604's one is much less compact and more similar to a large stellar association."
+    },
+    {
+      "id": 23,
+      "name": "NGC 1084",
+      "type": "Galaxy",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/A_spiral_home_to_exploding_stars.jpg/1024px-A_spiral_home_to_exploding_stars.jpg",
+      "text": "NGC 1084 is an unbarred spiral galaxy in the constellation Eridanus. It is located at a distance of about 63 million light-years away from the Milky Way. The galaxy was discovered by William Herschel on 10 January 1785. It has multiple spiral arms, which are not well defined.[6] It belongs in the same galaxy group with NGC 988, NGC 991, NGC 1022, NGC 1035, NGC 1042, NGC 1047, NGC 1052 and NGC 1110. This group is in turn associated with the Messier 77 group.Star formation in the galaxy is chaotic and not confined to the spiral arms, but the rate is not high enough to classify it as a starburst galaxy. Star formation has taken place in small bursts in the last 40 million years. The cause of this activity has been proposed as a merger with a gas-rich dwarf galaxy. A radio source has been detected 3.5' south-west of the galaxy, connected to it by a bridge."
+    },
+    {
+      "id": 24,
+      "name": "NGC 1672",
+      "type": "Galaxy",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/NGC1672_-_Iotw2205a.jpg/1024px-NGC1672_-_Iotw2205a.jpg",
+      "text": "NGC 1672 is a barred spiral galaxy located in the constellation Dorado. It was discovered by the astronomer James Dunlop on November 5, 1826. It was originally unclear whether it was a member of the Dorado Group, with some sources finding it to be a member and other sources rejecting its membership. However, recent tip of the red-giant branch (TRGB) measurements indicate that NGC 1672 is located at the same distance as other members, suggesting it is indeed a member of the Dorado Group.NGC 1672 has a large bar which is estimated to measure around 20 kpc.[6] It has very strong radio emissions emanating from its nucleus, bar, and the inner portion of the spiral arm region.[6] The nucleus is Seyfert type II and is engulfed by a starburst region.[6] The strongest polarized emissions come from the northeastern region which is upstream from its dust lanes. Magnetic field lines are at large angles with respect to the bar and turn smoothly to the center"
+    },
+    {
+      "id": 25,
+      "name": "The Eskimo Nebula",
+      "type": "Nebula",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Ngc2392.jpg/375px-Ngc2392.jpg",
+      "text": "The Eskimo Nebula (NGC 2392), also known as the Clown-faced Nebula, Lion Nebula,[4] or Caldwell 39, is a bipolar[5] double-shell[6] planetary nebula (PN). It was discovered by astronomer William Herschel in 1787. The formation resembles a person's head surrounded by a parka hood. It is surrounded by gas that composed the outer layers of a Sun-like star. The visible inner filaments are ejected by a strong wind of particles from the central star. The outer disk contains unusual, light-year-long filaments.NGC 2392 lies about 6500 light-years away, and is visible with a small telescope in the constellation of Gemini."
+    },
+    {
+      "id": 26,
+      "name": "NGC 3293",
+      "type": "Cluster",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Eso1422a.jpg/1024px-Eso1422a.jpg",
+      "text": "NGC 3293 is an open cluster in the Carina constellation. It was discovered by Nicolas-Louis de Lacaille in 1751. It consists of more than 100 stars brighter than 14th magnitude in a 10 arc minute field, the brightest of which are blue supergiants of apparent magnitude 6.5 and 6.7. There is also a 7th magnitude pulsating red supergiant, V361 Carinae.NGC 3293 is associated with the open cluster NGC 3324. Both are fairly young, at around 12 million years old. They show some degree of mass segregation, with more massive stars concentrated near their centers. Neither are dynamically relaxed."
+    },
+    {
+      "id": 27,
+      "name": "Spindle Galaxy",
+      "type": "Galaxy",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Ngc5866_hst_big.png/800px-Ngc5866_hst_big.png",
+      "text": "NGC 5866 (also called the Spindle Galaxy or Messier 102) is a relatively bright lenticular galaxy in the constellation Draco. NGC 5866 was most likely discovered by Pierre Méchain or Charles Messier in 1781, and independently found by William Herschel in 1788. Measured orbital velocities of its globular cluster system imply that dark matter makes up only 34±45% of the mass within 5 effective radii, a notable paucity.One of the most outstanding features of NGC 5866 is the extended dust disk, which is seen almost exactly edge-on.[7] This dust lane is highly unusual for a lenticular galaxy. The dust in most lenticular galaxies is generally found only near the nucleus and generally follows the light profile of the galaxies' bulges. This dust disk may contain a ring-like structure, although the shape of this structure is difficult to determine given the edge-on orientation of the galaxy.[9] It is also possible that the galaxy is a spiral galaxy that was misclassified as a lenticular galaxy because of its edge-on orientation, in which case the dust lane would not be too unusual."
+    },
+    {
+      "id": 28,
+      "name": "Cat's Eye",
+      "type": "Nebula",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/NGC6543.jpg/1024px-NGC6543.jpg",
+      "text": "The Cat's Eye Nebula (also known as NGC 6543 and Caldwell 6) is a planetary nebula in the northern constellation of Draco, discovered by William Herschel on February 15, 1786. It was the first planetary nebula whose spectrum was investigated by the English amateur astronomer William Huggins, demonstrating that planetary nebulae were gaseous and not stellar in nature. Structurally, the object has had high-resolution images by the Hubble Space Telescope revealing knots, jets, bubbles and complex arcs, being illuminated by the central hot planetary nebula nucleus (PNN).It is a well-studied object that has been observed from radio to X-ray wavelengths."
+    },
+    {
+      "id": 29,
+      "name": "Little Gem",
+      "type": "Nebula",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Little_gem.jpg/1024px-Little_gem.jpg",
+      "text": "The Little Gem Nebula or NGC 6818 is a planetary nebula located in the constellation of Sagittarius. It has magnitude 10 and oval diameter of 15 to 22 arcseconds with a 15th magnitude central star.It was discovered by William Herschel in 1787.NGC 6818 is located in the constellation of Sagittarius (The Archer), roughly 6000 light-years away from Earth. The glow of the cloud is just over half a light-year across.When stars like the Sun are near end of life, they send their outer layers into space to create glowing clouds of gas, a planetary nebulae. This ejection of mass is uneven, and planetary nebulae can have complex shapes. NGC 6818 shows knotty filament-like structures and distinct layers of material, with a bright and enclosed central bubble surrounded by a larger, more diffuse cloud.Scientists believe that the stellar wind from the central star propels the outflowing material, forming the elongated shape of NGC 6818. As this stellar wind moves through the slower-moving cloud it creates particularly bright spots in the bubble's outer layers"
+    },
+    {
+      "id": 30,
+      "name": "NGC_346",
+      "type": "Cluster",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/ESO-NGC346.jpg/1024px-ESO-NGC346.jpg",
+      "text": "NGC 346 is a young open cluster of stars with associated nebula located in the Small Magellanic Cloud (SMC) that appears in the southern constellation of Tucana. It was discovered August 1, 1826 by Scottish astronomer James Dunlop. J. L. E. Dreyer described it as, bright, large, very irregular figure, much brighter middle similar to double star, mottled but not resolved On the outskirts of the cluster is the multiple star system HD 5980,[6] one of the brightest stars in the SMC.This cluster is located near the center of the brightest H II region in the SMC, designated N66. This is positioned in the northeast section of the galactic bar. Stellar surveys have identified 230 massive OB stars in the direction of this cluster.[4] 33 of the cluster members are O-type stars, with 11 of type O6.5 or earlier. The inner 15 pc radius of the cluster appears centrally condensed, while the area outside that volume is more dispersed.[9] The youngest cluster members near the center have ages of less than two million years, and observations suggests the cluster is still engaged in high mass star formation"
+    },
+    {
+      "id": 31,
+      "name": "NGC 660",
+      "type": "Galaxy",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/NGC_660_Polar_Galaxy_Gemini_Observatory.jpg/1920px-NGC_660_Polar_Galaxy_Gemini_Observatory.jpg  ",
+      "text": "NGC 660 is a peculiar and unique polar-ring galaxy located approximately 45 million light-years from Earth in the Pisces constellation.[3] It is the only such galaxy having, as its host, a late-type lenticular galaxy It was probably formed when two galaxies collided a billion years ago.[5] However, it may have first started as a disk galaxy that captured matter from a passing galaxy. This material could have, over time, become strung out to form a rotating ring.The ring is not actually polar, but rather has an inclination from the plane of the host disk of approximately 45 degrees. The extreme number of pinkish star-forming areas that occurs along the galaxy's ring could be the result of the gravitation interaction caused by this collision. The ring is 50,000 light-years across - much broader than the disk itself - and has a greater amount of gas and star formation than the host ring. This likely indicates a very violent formation. The polar ring contains objects numbering in the hundreds. Many of these are red and blue supergiant stars. The most recently created stars in the ring were just formed approximately 7 million years ago. This indicates that the formation of these stars has been a long process and is still occurring."
+    },
+    {
+      "id": 32,
+      "name": "Peculiar",
+      "type": "Galaxy",
+      "img": "https://www.nasa.gov/sites/default/files/styles/full_width_feature/public/thumbnails/image/potw2112a.jpg",
+      "text": "NGC 922 is a peculiar galaxy in the southern constellation of Fornax, located at a distance of 142 Mly from the Milky Way. It is one of the nearest known collisional galaxies. This object was described by the Herschels as considerably faint, pretty large, round, gradually pretty much brighter middle. The general form is described by the morphological classification of SB(s)cd pec, which indicates a peculiar (pec) barred spiral galaxy (SB) with no inner ring system around the bar (s) and loosely-wound spiral arms (cd).This object was originally described as a dust-obscured grand-design galaxy – a term used to indicate a type of spiral galaxy with prominent and well-defined spiral arms. However, observation of its features suggests it has undergone a merger with a gas-rich dwarf galaxy This has resulted in a distinctive C-shaped ring of H-alpha emission. About 104 kpc away from NGC 922, there is a dwarf galaxy called S2 that was once thought to have been responsible for NGC 922's structure. A stellar plume is seen extending from the galaxy in the direction of S2, located about 8′ away.[8] However, the stellar plume is not connected to S2, and S2 also has it own tidal structure, which would not be possible if it had already punched through NGC 922"
+    },
+    {
+      "id": 33,
+      "name": "NGC_1345",
+      "type": "Galaxy",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NGC_1345_HST.jpg/1920px-NGC_1345_HST.jpg",
+      "text": "NGC 1345 is a barred spiral galaxy in the constellation Eridanus. It was discovered by John Herschel on Dec 11, 1835."
+    },
+    {
+      "id": 34,
+      "name": "NGC 1533",
+      "type": "Galaxy",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/NGC_1533_.jpg/450px-NGC_1533_.jpg",
+      "text": "NGC 1533 is a barred lenticular galaxy with faint spiral structure in the constellation Dorado. The seventh-brightest member of the Dorado Group and 1° off the group's center, it is surrounded by a vast arc or ring of H I which is connected to IC 2038 and IC 2039. The ring orbits around 32 kpc from the center. As is typical of lenticular galaxies, star formation is weak in NGC 1533. Using both the surface brightness fluctuation (SBF) and globular cluster luminosity function (GCLF) methods, its distance was estimated in 2007 to be 19.4 ± 1.1 Mpc and 18.6 ± 2.0 Mpc respectively. Averaging these together gives a distance of around 19 million parsecs or 62 million light-years from earth. In 1970, a supernova was detected in NGC 1533. NGC 1533 was discovered by John Herschel on December 5, 1834."
+    },
+    {
+      "id": 35,
+      "name": "NGC 2787",
+      "type": "Galaxy",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/NGC_2787.jpg/450px-NGC_2787.jpg",
+      "text": "NGC 2787 is a barred lenticular galaxy approximately 24[3] million light-years away in the northern constellation of Ursa Major. It was discovered on December 3, 1788 by German-born astronomer William Herschel. J. L. E. Dreyer described it as, bright, pretty large, a little extended 90°, much brighter middle, mottled but not resolved, very small (faint) star involved to the southeast The visible galaxy has an angular size of 2.5 × 1.5 arcminutes or 3.24 × 1.81 arcminutes and an apparent visual magnitude of 11.8"
+    },
+    {
+      "id": 36,
+      "name": "NGC_4414",
+      "type": "Galaxy",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/NGC_4414_%28NASA-med%29.jpg/1280px-NGC_4414_%28NASA-med%29.jpg",
+      "text": "NGC 4414 is an unbarred spiral galaxy about 62 million light-years away in the constellation Coma Berenices. It is a flocculent spiral galaxy, with short segments of spiral structure but without the dramatic well-defined spiral arms of a grand design spiral. Four supernovae have been observed in this galaxy: SN 1974G (type I, mag. 13), SN 2013df (type II, mag. 14), SN 2021J (type Ia, mag. 12), and SN 2023hlf (type II, mag. 17.8)."
+    },
+    {
+      "id": 37,
+      "name": "NGC 1433",
+      "type": "Galaxy",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Composite_view_of_the_galaxy_NGC_1433_from_ALMA_and_Hubble.jpg/1024px-Composite_view_of_the_galaxy_NGC_1433_from_ALMA_and_Hubble.jpg",
+      "text": "NGC 1433 (also known as PGC 13586) is a barred spiral galaxy with a double ring structure located in the constellation of Horologium. It is at a distance of 46 million light-years from Earth. It is a Seyfert galaxy with an active galactic nucleus. The central region of the galaxy displays intense star formation activity, with an irregular star-forming ring of 5″ (or 0.3 kpc) radius and weak radio wave emission. Star formation is also noticeable in the spiral arms but not the bar of the galaxy.[5] NGC 1433 is being studied as part of a survey of 50 nearby galaxies known as the Legacy ExtraGalactic UV Survey (LEGUS). A jet of material flowing away from the central black hole of the galaxy extending for only 150 light-years has been found. It is the smallest molecular outflow ever observed in a galaxy beyond our own"
+    },
+    {
+      "id": 38,
+      "name": "Spiral Galaxy",
+      "type": "Galaxies",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/M101_hires_STScI-PRC2006-10a.jpg/1280px-M101_hires_STScI-PRC2006-10a.jpg",
+      "text": "Spiral galaxies form a class of galaxy originally described by Edwin Hubble in his 1936 work The Realm of the Nebulae[1] and, as such, form part of the Hubble sequence. Most spiral galaxies consist of a flat, rotating disk containing stars, gas and dust, and a central concentration of stars known as the bulge. These are often surrounded by a much fainter halo of stars, many of which reside in globular clusters.Spiral galaxies are named by their spiral structures that extend from the center into the galactic disc. The spiral arms are sites of ongoing star formation and are brighter than the surrounding disc because of the young, hot OB stars that inhabit them."
+    },
+    {
+      "id": 39,
+      "name": "Butterfly Nebula",
+      "type": "Nebulas",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/e/e6/The_Twin_Jet_Nebula.jpg",
+      "text": "NGC 2346 is a planetary nebula near the celestial equator in the constellation of Monoceros,[5] less than a degree to the ESE of Delta Monocerotis.[6] It is informally known as the Butterfly Nebula. The nebula is bright and conspicuous with a visual magnitude of 9.6,[3] and has been extensively studied. Among its most remarkable characteristics is its unusually cool central star, which is a spectroscopic binary, and its unusual shape.The nebular is bipolar in form, with modest outflow velocities in the range of 8–11 km/s, while the center is girded by an expanding belt of molecular gas. The electron density of the nebula is on the order of 400 per cubic centimeter. The ionization of the nebula is the result of ultraviolet emission from the binary companion"
+    },
+    {
+      "id": 40,
+      "name": "NGC 2818",
+      "type": "Nebula",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/NGC_2818_by_the_Hubble_Space_Telescope.jpg/1920px-NGC_2818_by_the_Hubble_Space_Telescope.jpg",
+      "text": "NGC 2818 is a planetary nebula located in the southern constellation Pyxis (The Compass). It consists largely of glowing gases from the star's outer layers ejected during the final stages of its life when it had run out of the fuel necessary to sustain its core fusion processes. The remnants of its core will remain as a white dwarf.  It is often cited as a member of the open cluster NGC 2818A framing it, however, radial velocity differences between the planetary nebula and open cluster suggest a chance alignment. The case is an example of a superimposed pair, similar to NGC 2438 and M46"
+    },
+    {
+      "id": 41,
+      "name": "NGC 7098",
+      "type": "Nebula",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/NGC_7098_ESO.jpg/1024px-NGC_7098_ESO.jpg",
+      "text": "NGC 7098 has a very prominent bar that is shaped like a broad oval with very prominent, nearly straight ansae. Surrounding the bar, an inner ring made of four tightly wrapped spiral arms is found. Located outside of the inner ring, a well-defined outer ring surrounding the inner region appears to have formed due to the wrapping of two spiral arms. It appears that both rings are being affected by new star formation. However, there is no star formation in the core of NGC 7098 as shown by the absence of dust lanes."
+    },
+    {
+      "id": 42,
+      "name": "Pleiades",
+      "type": "Cluster",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Pleiades_large.jpg/1280px-Pleiades_large.jpg",
+      "text": "The Pleiades also known as the Seven Sisters, Messier 45, and other names by different cultures, is an asterism and an open star cluster containing middle-aged, hot B-type stars in the north-west of the constellation Taurus. At a distance of about 444 light years, it is among the nearest star clusters to Earth. It is the nearest Messier object to Earth, and is the most obvious cluster to the naked eye in the night sky. It is also observed to house the reflection nebula NGC 1432, an HII region."
+    },
+    {
+      "id": 43,
+      "name": "R136",
+      "type": "Cluster",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Grand_star-forming_region_R136_in_NGC_2070_%28captured_by_the_Hubble_Space_Telescope%29.jpg/1024px-Grand_star-forming_region_R136_in_NGC_2070_%28captured_by_the_Hubble_Space_Telescope%29.jpg",
+      "text": "R136 (formerly known as RMC 136 from the Radcliffe Observatory Magellanic Clouds catalogue) is the central concentration of stars in the NGC 2070 star cluster, which lies at the centre of the Tarantula Nebula in the Large Magellanic Cloud. When originally named it was an unresolved stellar object (catalogued as HD 38268 and Wolf-Rayet star Brey 82) but is now known to include 72 class O and Wolf–Rayet stars within 5 parsecs (20 arc seconds) of the centre of the cluster. The extreme number and concentration of young massive stars in this part of the LMC qualifies it as a starburst region"
+    },
+    {
+      "id": 44,
+      "name": "Southern Crab Nebula",
+      "type": "Nebula",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/The_Crab_of_the_Southern_Sky_Hen_2-104.tif/lossy-page1-800px-The_Crab_of_the_Southern_Sky_Hen_2-104.tif.jpg",
+      "text": "The Southern Crab Nebula (or WRAY 16-147 or Hen 2-104) is a nebula in the constellation Centaurus. The nebula is several thousand light years from Earth, and its central star is a symbiotic Mira variable - white dwarf pair. It is named for its resemblance to the Crab Nebula, which is in the northern sky.The Southern Crab was noted in a 1967 catalog, and was also observed using a CCD imager with the 2.2 meter telescope at the La Sila observatory in 1989.The 1989 observation marked a major expansion of knowledge about the nebula, and it was observed using various filters"
+    },
+    {
+      "id": 45,
+      "name": "Supernova ",
+      "type": "Star",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/SN1994D.jpg/1024px-SN1994D.jpg",
+      "text": "A supernova  is a powerful and luminous explosion of a star. A supernova occurs during the last evolutionary stages of a massive star or when a white dwarf is triggered into runaway nuclear fusion. The original object, called the progenitor, either collapses to a neutron star or black hole, or is completely destroyed to form a diffuse nebula. The peak optical luminosity of a supernova can be comparable to that of an entire galaxy before fading over several weeks or months."
+    },
+    {
+      "id": 46,
+      "name": "Tarantula",
+      "type": "Nebula",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Tarantula_Nebula_by_JWST.jpg/420px-Tarantula_Nebula_by_JWST.jpg",
+      "text": "The Tarantula Nebula was observed by Nicolas-Louis de Lacaille during an expedition to the Cape of Good Hope between 1751 and 1753. He catalogued it as the second of the Nebulae of the First Class, Nebulosities not accompanied by any star visible in the telescope of two feet. It was described as a diffuse nebula 20' across.Johann Bode included the Tarantula in his 1801 Uranographia star atlas and listed it in the accompanying Allgemeine Beschreibung und Nachweisung der Gestirne catalogue as number 30 in the constellation Xiphias or Dorado. Instead of being given a stellar magnitude, it was noted to be nebulous."
+    },
+    {
+      "id": 47,
+      "name": "The Ring",
+      "type": "Nebula",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/NGC7293_%282004%29.jpg/1024px-NGC7293_%282004%29.jpg",
+      "text": "The Ring Nebula (also catalogued as Messier 57, M57 and NGC 6720) is a planetary nebula in the northern constellation of Lyra. Such a nebula is formed when a star, during the last stages of its evolution before becoming a white dwarf, expels a vast luminous envelope of ionized gas into the surrounding interstellar space."
+    },
+    {
+      "id": 48,
+      "name": "Ptolemy",
+      "type": "Cluster",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/The_star_cluster_Messier_7.jpg/1024px-The_star_cluster_Messier_7.jpg",
+      "text": "Messier 7 or M7, also designated NGC 6475 and sometimes known as the Ptolemy Cluster,[4] is an open cluster of stars in the constellation of Scorpius. The cluster is easily detectable with the naked eye, close to the stinger of Scorpius. With a declination of −34.8°, it is the southernmost Messier object. M7 has been known since antiquity; it was first recorded by the 2nd-century Greek-Roman astronomer Ptolemy, who described it as a nebula in 130 AD.[5] Italian astronomer Giovanni Batista Hodierna observed it before 1654 and counted 30 stars in it. In 1764, French astronomer Charles Messier catalogued the cluster as the seventh member in his list of comet-like objects. English astronomer John Herschel described it as coarsely scattered clusters of stars"
+    },
+    {
+      "id": 49,
+      "name": "Andromeda Galaxy",
+      "type": "Galaxy",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/M31_09-01-2011_%28cropped%29.jpg/1280px-M31_09-01-2011_%28cropped%29.jpg",
+      "text": "The Andromeda Galaxy is a barred spiral galaxy and is the nearest major galaxy to the Milky Way, where the Solar System resides. It was originally named the Andromeda Nebula and is cataloged as Messier 31, M31, and NGC 224. Andromeda has a diameter of about 46.56 kiloparsecs (152,000 light-years)[8] and is approximately 765 kpc (2.5 million light-years) from Earth. The galaxy's name stems from the area of Earth's sky in which it appears, the constellation of Andromeda, which itself is named after the princess who was the wife of Perseus in Greek mythology."
+    },
+    {
+      "id": 50,
+      "name": "Vesta",
+      "type": "Asteroid",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Vesta_in_natural_color.jpg/1024px-Vesta_in_natural_color.jpg",
+      "text": "Vesta (minor-planet designation: 4 Vesta) is one of the largest objects in the asteroid belt, with a mean diameter of 525 kilometres (326 mi).[10] It was discovered by the German astronomer Heinrich Wilhelm Matthias Olbers on 29 March 1807 and is named after Vesta, the virgin goddess of home and hearth from Roman mythology.Vesta is thought to be the second-largest asteroid, both by mass and by volume, after the dwarf planet Ceres,[20][21][22] though in volume it overlaps with the uncertainty in the measurements of 2 Pallas. Measurements give it a nominal volume only slightly larger than that of Pallas (about 5% greater, which is the magnitude of the uncertainties in measurement), but it is 25% to 30% more massive. It constitutes an estimated 9% of the mass of the asteroid belt. Vesta is the only known remaining rocky protoplanet (with a differentiated interior) of the kind that formed the terrestrial planets.[25][26][27] Numerous fragments of Vesta were ejected by collisions one and two billion years ago that left two enormous craters occupying much of Vesta's southern hemisphere.[28][29] Debris from these events has fallen to Earth as howardite–eucrite–diogenite (HED) meteorites, which have been a rich source of information about Vesta"
+    }
+  ],
+  "users": [
+    {
+      "email": "admin@gmail.com",
+      "password": "$2a$10$7V5uBqD50Uji8Q7KjEWZMuqOWSGL5VfF80lfxsk2a/vgJRQi9rLh2",
+      "name": "admin",
+      "id": 1
+    }
+  ]
+}

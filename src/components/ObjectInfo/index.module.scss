@@ -1,0 +1,20 @@
+.cards_objects {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    width: 360px;
+    height: 360px;
+
+    border: 3px double #ccccccaf;
+    border-radius: 30px;
+
+
+}
+.img_objects {
+    width: 350px;
+    height: 330px;  
+    object-fit: cover;
+
+    border-radius: 30p;
+}

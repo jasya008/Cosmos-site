@@ -1,0 +1,35 @@
+table {
+    width: 100%;
+    border: 1px solid #ccccccb1;
+
+
+    tbody {
+        tr {
+            td {
+                font-family: var(--all-text);
+
+                width: 200px;
+                height: 70px;
+
+                color: #fff;
+
+                text-align: center;
+            }
+        }
+
+
+
+    }
+}
+
+
+.nameObject {
+    font-size: 20px;
+
+    color: var(--color-purple);
+
+    cursor: pointer;
+    
+
+    // padding-top: 20px;
+}

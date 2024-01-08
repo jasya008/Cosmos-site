@@ -1,0 +1,19 @@
+.buttons {
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+
+    button {
+        font-family: var(--small-headiling);
+        font-size: 23px;
+        border: none;
+        background: none;
+        color: var(--color-orange);
+        cursor: pointer;
+    }
+
+}
+
+.active {
+    border-bottom: 3px solid var(--color-orange);
+}

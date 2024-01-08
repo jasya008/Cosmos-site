@@ -1,0 +1,28 @@
+
+.left{
+    display: flex;
+    justify-content: space-between;
+
+    .link {
+        font-family: var(--small-headiling);
+        text-align: center;
+        color: #fff;
+        padding: 10px 30px;
+        background-color: #A259FF;
+    
+        border-radius: 14px;
+    
+        margin:  20px 40px 10px ; 
+
+        cursor: pointer;
+    }
+
+    .title{
+        font-family: var(--small-headiling);
+        font-size: 45px;
+        color: var(--color-purple);
+        text-align: center;
+
+        // padding: 10px 0 20px 0;
+    }
+}

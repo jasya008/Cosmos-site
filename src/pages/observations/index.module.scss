@@ -1,0 +1,30 @@
+.observation {
+
+    table {
+        width: 100%;
+        // margin-bottom: 30px;
+        thead {
+
+            tr {
+                background-color: #fff;
+
+
+                td {
+                    // width: 0px;
+                    color: #000;
+                    height: 50px;
+                    text-align: center;
+                }
+            }
+        }
+    }
+
+    .title {
+        font-family: var(--small-headiling);
+        font-size: 35px;
+        color: var(--color-purple);
+        text-align: center;
+
+        padding: 10px 0 20px 0;
+    }
+}

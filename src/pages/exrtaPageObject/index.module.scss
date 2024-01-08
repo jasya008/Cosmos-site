@@ -1,0 +1,24 @@
+.All {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+
+    .img {
+        width: 600px;
+        object-fit: contain;
+    }
+
+
+    .text{
+        font-family: var(--small-headiling);
+        font-size: 15px;
+
+        width: 700px;
+
+        color: #cccccc;
+
+        padding-top: 30px;
+    }
+
+}
