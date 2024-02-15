@@ -4,7 +4,6 @@ import s from './index.module.scss'
 import React, { useEffect, useState } from 'react'
 import { SearchForm } from '../../components/SearchForm'
 import { Content } from '../../components/content'
-import { Filter } from '../../components/Filter'
 import { GetContext } from '../../components/context'
 import { useNavigate } from 'react-router-dom'
 
