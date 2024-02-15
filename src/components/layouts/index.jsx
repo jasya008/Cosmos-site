@@ -3,7 +3,7 @@ import React from 'react'
 import { Link, NavLink, Outlet, useLocation, useNavigate } from 'react-router-dom'
 import { Footer } from '../footer'
 import { GetContext } from '../context'
-import { Footer } from '../footer'
+
 
 export const Layouts = () => {
   const setActive = ({ isActive }) => (isActive ? 'active-page' : null)
