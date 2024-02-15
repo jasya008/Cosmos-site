@@ -1,11 +1,11 @@
 import { Container } from '@mui/material'
 import s from './index.module.scss'
-import { Link } from 'react-router-dom'
+import { Link } from 'react-router-dom';
 import { GetContext } from '../context';
 import DeleteIcon from '@mui/icons-material/Delete';
 import BorderColorIcon from '@mui/icons-material/BorderColor';
 
-export const InfoDicovers = ({ data }) => {
+export const InfoDicovers = ({ data  }) => {
   // const { handleDelete } = GetContext();
   return (
     <div className={s.info}>

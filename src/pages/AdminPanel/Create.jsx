@@ -44,8 +44,8 @@ export const Create = () => {
 
     try {
 
-      const formData = new FormData()
-      formData.append("image", dataImg)
+      // const formData = new FormData()
+      // formData.append("image", dataImg)
 
       await axios.post(URL, newData, formData)
 
@@ -75,7 +75,7 @@ export const Create = () => {
 
       navigate("/Observations")
     } catch (error) {
-      toast.error(error.response.data, {
+      toast.error(error.data, {
         position: "top-right",
         autoClose: 5000,
         hideProgressBar: false,

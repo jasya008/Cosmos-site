@@ -14,7 +14,7 @@
         overflow: hidden;
         border-right: 2px solid hsl(0, 0%, 80%);
         white-space: nowrap;
-        animation: typewriter 6s steps(44) 0.5s infinite normal both,
+        animation: typewriter 6s steps(44) 0.5s infinite  alternate,
             blinkTextCursor 500ms infinite;
 
         @keyframes typewriter {
