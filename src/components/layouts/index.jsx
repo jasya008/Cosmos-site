@@ -1,7 +1,7 @@
 import { Container } from '@mui/material'
 import React from 'react'
 import { Link, NavLink, Outlet, useLocation, useNavigate } from 'react-router-dom'
-import { Footer } from '../Footer'
+import { Footer } from '../footer'
 import { GetContext } from '../context'
 
 export const Layouts = () => {
