@@ -9,18 +9,10 @@ export const Layouts = () => {
   const setActive = ({ isActive }) => (isActive ? 'active-page' : null)
 
   const location = useLocation();
-  const { user, setUser } = GetContext();
+  const { data } = GetContext(); // user and setUser removed
   const navigate = useNavigate();
 
-  const handleLogout = () => {
-    setUser({
-      email: "",
-    });
-
-    localStorage.removeItem("user");
-    navigate("/login");
-  };
-
+  // handleLogout function removed
 
   return (
     <>
@@ -44,30 +36,9 @@ export const Layouts = () => {
                 <NavLink to="/objects" className={setActive}>
                   ObJECTS
                 </NavLink>
-                {user.email === "admin@gmail.com" ? (
-                  <NavLink to="/adminPage" className={setActive}>
-                    ADMIN
-                  </NavLink>
-                ) : null}
-
-                {user.email ? (
-                  <button onClick={handleLogout} className='btn'>Exit</button>
-                ) : null}
-
-                {!user.email &&
-                  (location.pathname = "/" ||
-                    location.pathname === '/login') && (
-                    < Link to="/registr">
-                      <button className='btn'>Sign Up</button>
-                    </Link>
-                  )
-                }
-
-                {!user.email && location.pathname === "/register" && (
-                  < Link to="/registr">
-                    <button className='btn'>Login</button>
-                  </Link>
-                )}
+                {/* Admin link check removed */}
+                {/* Exit button removed */}
+                {/* Sign Up/Login buttons removed */}
               </div>
             </div>
           </Container>

@@ -239,6 +239,18 @@
       "location": "USA",
       "distance": "830000",
       "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/M31_09-01-2011_%28cropped%29.jpg/1280px-M31_09-01-2011_%28cropped%29.jpg"
+    },
+    {
+      "id": 22,
+      "name": "Sirius ",
+      "visibility": "Telescope",
+      "time": "09:08",
+      "magnitude": "-1.89",
+      "constellation": "Canis Major",
+      "description": "Sirius is the brightest star in Earth's night sky. Often nicknamed the \"Dog Star.",
+      "location": "Tashkent",
+      "distance": "8.6",
+      "img": "https://cdn.mos.cms.futurecdn.net/Gqvi9TEBxRdwjAxgBkqdhj-970-80.jpg.webp"
     }
   ],
   "objects": [

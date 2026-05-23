@@ -12,14 +12,14 @@ export const Change = () => {
 
     const { id } = useParams()
     // const { data, setData } = GetContext()
-    const { user } = GetContext();
-    const navigate = useNavigate();
+    // const { user } = GetContext();
+    // const navigate = useNavigate();
 
-    useEffect(() => {
-        if (localStorage.getItem("user") === null) {
-            navigate("/login");
-        }
-    }, []);
+    // useEffect(() => {
+    //     if (localStorage.getItem("user") === null) {
+    //         navigate("/login");
+    //     }
+    // }, []);
 
 
 

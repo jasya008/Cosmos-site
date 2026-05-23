@@ -12,15 +12,11 @@ const initContext = createContext()
 
 export const Context = ({ children }) => {
 
-  const [user, setUser] = useState({
-    email: "",
-  })
-
   const [data, setData] = useState([])
   const [loader, setLoader] = useState(true)
 
 
-  const API_URL = "http://localhost:4080/discovers"
+  const API_URL = "http://localhost:4000/discovers"
 
   const getData = async () => {
     try {
@@ -36,12 +32,6 @@ export const Context = ({ children }) => {
 
   useEffect(() => {
     getData()
-  }, [])
-
-  useEffect(() => {
-    if (localStorage.getItem("user") !== null) {
-      setUser(JSON.parse(localStorage.getItem('user')))
-    }
   }, [])
 
   const handleDelete = async (id) => {
@@ -61,15 +51,11 @@ export const Context = ({ children }) => {
       progress: undefined,
       theme: "dark",
     });
-
-    navigate("/Observations")
   }
 
 
   return (
     <initContext.Provider value={{
-      user,
-      setUser,
       data,
       setData,
       handleDelete

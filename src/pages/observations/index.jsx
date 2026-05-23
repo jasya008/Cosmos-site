@@ -7,15 +7,9 @@ import { useNavigate } from 'react-router-dom'
 import { GetContext } from '../../components/context'
 
 export const Observations = () => {
-  const { user, data, setData } = GetContext();
+  const { data, setData } = GetContext();
   console.log(data);
   const navigate = useNavigate();
-
-  useEffect(() => {
-    if (localStorage.getItem("user") === null) {
-      navigate("/login");
-    }
-  }, [])
 
   const API_URL = "http://localhost:4000/discovers"
 

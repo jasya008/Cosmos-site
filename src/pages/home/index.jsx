@@ -11,14 +11,14 @@ import { Four } from '../../components/sections/Four';
 
 
 export const Home = () => {
-  const { user } = GetContext();
-  const navigate = useNavigate();
+  // const { user } = GetContext();
+  // const navigate = useNavigate();
 
-  useEffect(() => {
-    if (localStorage.getItem("user") === null) {
-      navigate("/login");
-    }
-  }, [navigate]);
+  // useEffect(() => {
+  //   if (localStorage.getItem("user") === null) {
+  //     navigate("/login");
+  //   }
+  // }, [navigate]);
 
 
 

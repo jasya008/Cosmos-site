@@ -8,14 +8,14 @@ import { useNavigate } from 'react-router-dom'
 import { toast } from 'react-toastify'
 
 export const Create = () => {
-  const { user } = GetContext();
-  const navigate = useNavigate();
+  // const { user } = GetContext();
+  // const navigate = useNavigate();
 
-  useEffect(() => {
-    if (localStorage.getItem("user") === null) {
-      navigate("/login");
-    }
-  }, []);
+  // useEffect(() => {
+  //   if (localStorage.getItem("user") === null) {
+  //     navigate("/login");
+  //   }
+  // }, []);
 
 
   const { data, setData } = GetContext();
@@ -37,15 +37,15 @@ export const Create = () => {
     const newData = { id, name, visibility, time, magnitude, constellation, description, location, distance, img }
     const newDataList = [...data, newData]
 
-    // const handleImage = (e) => {
-    //   console.log(e.target.files);
-    //   setImgData(e.target.files[0])
-    // }
+    const handleImage = (e) => {
+      console.log(e.target.files);
+      setImgData(e.target.files[0])
+    }
 
     try {
 
-      // const formData = new FormData()
-      // formData.append("image", dataImg)
+      const formData = new FormData()
+      formData.append("image", dataImg)
 
       await axios.post(URL, newData, formData)
 
